@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sgez123
 - 👀 I’m interested in ... food,picture,hiking
-- 🌱 I’m currently learning ... java,python
-- 💞️ I’m looking to collaborate on ... google~~~
+- 🌱 I’m currently learning ... java,python,Cloud
 - 📫 How to reach me ... sgez123@naver.com
 
 <!---
